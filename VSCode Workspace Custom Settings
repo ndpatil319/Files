@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/usr/local/bin/python3",
+    "workbench.settings.editor": "ui",
+    "python.formatting.provider": "autopep8",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
